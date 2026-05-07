@@ -158,7 +158,6 @@ Scores Sync Across All Screens
 * React
 * Tailwind CSS
 * Framer Motion
-* Socket.IO Client
 
 ## Backend
 
@@ -168,12 +167,11 @@ Scores Sync Across All Screens
 
 ## Database
 
-* MongoDB
+* Supabase
 
 ## Deployment
 
 * Vercel
-* Cloud Hosting
 
 ---
 
